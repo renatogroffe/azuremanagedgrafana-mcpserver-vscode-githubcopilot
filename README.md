@@ -24,3 +24,10 @@ Ao clicar em "+ Add service account token" poderemos então configurar a validad
 E chegaremos a um novo token criado com sucesso:
 
 ![Novo token criado](img/06-new-token.png)
+
+Alguns detalhes desta nova Service Account:
+
+![Detalhes da Service Account](img/07-service-account-details.png)
+
+Utilizar agora como base as seguintes definições no arquivo mcp.json do Visual Studio Code:
+
