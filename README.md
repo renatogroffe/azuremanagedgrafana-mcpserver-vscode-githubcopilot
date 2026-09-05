@@ -61,3 +61,6 @@ Finalmente teremos o MCP Server com a autenticação realizada com sucesso:
 
 ![MCP Server autenticado](img/09-mcp-logged.png)
 
+Algumas das tools disponíveis:
+
+![Tools disponíveis](img/10-mcp-tools.png)
