@@ -64,3 +64,9 @@ Finalmente teremos o MCP Server com a autenticação realizada com sucesso:
 Algumas das tools disponíveis:
 
 ![Tools disponíveis](img/10-mcp-tools.png)
+
+Testes com o MCP Server:
+
+![Testes 1](img/11-tests-results.png)
+
+![Testes 2](img/12-more-tests-resultas.png)
