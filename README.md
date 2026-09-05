@@ -32,7 +32,25 @@ Alguns detalhes desta nova Service Account:
 Utilizar agora como base as seguintes definições no arquivo mcp.json do Visual Studio Code:
 
 ```json
-{}
+{
+  "servers": {
+    "azure-grafana-mcp-server": {
+      "type": "http",
+      "url": "https://<grafana-endpoint>/api/azure-mcp",
+      "headers": {
+        "Authorization": "Bearer ${input:grafana-token}"
+      }
+    }
+  },
+	"inputs": [
+		{
+			"type": "promptString",
+			"id": "grafana-token",
+			"description": "Grafana Service Account Token",
+			"password": true
+		}
+	]
+}
 ```
 
 Informando o token da Service Account do Grafana no VS Code:
