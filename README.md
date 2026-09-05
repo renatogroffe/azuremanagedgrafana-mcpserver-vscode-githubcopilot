@@ -20,3 +20,7 @@ Service Account criada com sucesso:
 Ao clicar em "+ Add service account token" poderemos então configurar a validade do novo token:
 
 ![Criando um novo token](img/05-creating-token.png)
+
+E chegaremos a um novo token criado com sucesso:
+
+![Novo token criado](img/06-new-token.png)
