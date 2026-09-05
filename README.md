@@ -38,3 +38,8 @@ Utilizar agora como base as seguintes definições no arquivo mcp.json do Visual
 Informando o token da Service Account do Grafana no VS Code:
 
 ![Informando token](img/08-vscode-grafana-token.png)
+
+Finalmente teremos o MCP Server com a autenticação realizada com sucesso:
+
+![MCP Server autenticado](img/09-mcp-logged.png)
+
