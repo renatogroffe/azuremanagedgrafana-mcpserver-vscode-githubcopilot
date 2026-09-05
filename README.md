@@ -12,3 +12,7 @@ Criar dentro do Grafana uma nova Service Account (Administration > Users and acc
 Criando a Service Account e atribuindo a role Admin:
 
 ![Create Service Account](img/03-create-service-account.png)
+
+Service Account criada com sucesso:
+
+![Service Account criada](img/04-service-account.png)
