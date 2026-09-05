@@ -31,3 +31,10 @@ Alguns detalhes desta nova Service Account:
 
 Utilizar agora como base as seguintes definições no arquivo mcp.json do Visual Studio Code:
 
+```json
+{}
+```
+
+Informando o token da Service Account do Grafana no VS Code:
+
+![Informando token](img/08-vscode-grafana-token.png)
