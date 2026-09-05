@@ -16,3 +16,7 @@ Criando a Service Account e atribuindo a role Admin:
 Service Account criada com sucesso:
 
 ![Service Account criada](img/04-service-account.png)
+
+Ao clicar em "+ Add service account token" poderemos então configurar a validade do novo token:
+
+![Criando um novo token](img/05-creating-token.png)
