@@ -5,4 +5,6 @@ Habilitando o uso de Service Account na instância do Azure Managed Grafana no P
 
 ![Enable Service Account](img/01-enable-service-account.png)
 
-Dentro do recurso
+Criar dentro do Grafana uma nova Service Account ():
+
+![Add Service Account](img/02-add-service-account.png)
