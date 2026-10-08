@@ -45,14 +45,14 @@ Utilizar agora como base as seguintes definições no arquivo mcp.json do Visual
       }
     }
   },
-	"inputs": [
-		{
-			"type": "promptString",
-			"id": "grafana-token",
-			"description": "Grafana Service Account Token",
-			"password": true
-		}
-	]
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "grafana-token",
+      "description": "Grafana Service Account Token",
+      "password": true
+    }
+  ]
 }
 ```
 
